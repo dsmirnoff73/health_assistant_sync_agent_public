@@ -2,3 +2,5 @@ python-dotenv
 notion-client
 gspread
 google-auth
+fastapi
+uvicorn
